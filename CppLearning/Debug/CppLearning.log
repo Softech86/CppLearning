@@ -1,3 +1,6 @@
-﻿  static.cpp
+﻿  vector.cpp
+d:\github\cpplearning\cpplearning\vector.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\cpplearning\cpplearning\vector.cpp(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\github\cpplearning\cpplearning\vector.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
   CppLearning.vcxproj -> D:\Github\CppLearning\Debug\CppLearning.exe
   CppLearning.vcxproj -> D:\Github\CppLearning\Debug\CppLearning.pdb (Partial PDB)
