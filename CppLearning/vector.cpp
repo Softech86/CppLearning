@@ -1,5 +1,5 @@
 #include <iostream>
-#include <random>
+#include <cstdlib>
 #include <ctime>
 #include <vector>
 
@@ -27,6 +27,6 @@ int main() {
 
 	display(num);
 
-	system("pause");
+	//system("pause");
 	return 0;
 }
