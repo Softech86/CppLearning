@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vector.cpp" />
+    <ClCompile Include="e2-3-2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{37F8623A-CAD2-4313-85CF-34B7B476706A}</ProjectGuid>
