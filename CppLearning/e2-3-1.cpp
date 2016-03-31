@@ -78,6 +78,6 @@ void test() {
 
 int main() {
 	test();
-	system("pause");
+	//system("pause");
 	return 0;
 }
